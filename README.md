@@ -13,7 +13,7 @@ Seçilen tarihe göre geçen dakika ve saati gösteren Android uygulaması.
 
 ## Demo
 
-![](https://github.com/BcanGRG/Age_In_Minutes/blob/main/app/src/androidTest/java/assets/ageinminutes.gif | height=250)
+![](https://github.com/BcanGRG/Age_In_Minutes/blob/main/app/src/androidTest/java/assets/ageinminutes.gif)
 
 ## Color Reference
 
